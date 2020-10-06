@@ -6,4 +6,4 @@ This repository holds my submissions to leetCode problems using Rust as my weapo
 
 You can compile each of these solutions by having rust installed and executing the following commands:
 
-# `rustc file_name.rs`, then `./file_name`
+### `rustc file_name.rs`, then `./file_name`
