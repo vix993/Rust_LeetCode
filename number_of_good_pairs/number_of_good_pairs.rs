@@ -23,5 +23,5 @@ pub fn num_identical_pairs(nums: Vec<i32>) -> i32 {
 }
 
 fn main() {
-    println!("{:?}", num_identical_pairs([1, 2, 3, 1, 1].to_vec())); // enter list of i32's where the !!!'s are
+    println!("{:?}", num_identical_pairs([1, 2, 3, 1, 1].to_vec())); // enter vector of i32's where the !!!'s are
 }
