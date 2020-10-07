@@ -1,3 +1,10 @@
+// This is a medium difficulty problem on leetCode
+// The idea is to order an array of cards so that
+// when we 'reveal the top card' and remove it from the deck
+// we can shuffle the next card into the last position
+// and repeat the process making sure that we are revealing
+// the cards in increasing order.
+
 pub fn deck_revealed_increasing(deck: Vec<i32>) -> Vec<i32> {
     let mut sorted_deck: Vec<i32> = deck;
     let mut ret: Vec<i32> = [].to_vec();
@@ -27,5 +34,5 @@ pub fn deck_revealed_increasing(deck: Vec<i32>) -> Vec<i32> {
 }
 
 fn main () {
-    println!("{:?}", deck_revealed_increasing([17,13,11,2,3,5,7].to_vec()));
+    println!("{:?}", deck_revealed_increasing([17,13,11,2,3,5,7].to_vec())); // change vector input for different conditions
 }
