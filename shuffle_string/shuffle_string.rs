@@ -26,5 +26,5 @@ pub fn restore_string(s: String, indices: Vec<i32>) -> String {
 fn main() {
     println!("{:?}",
              restore_string("codeleet".to_string(),
-                            [4, 5, 6, 7, 0, 2, 1, 3].to_vec()));
+                            [4, 5, 6, 7, 0, 2, 1, 3].to_vec())); // swap string and vector inputs for testing
 }
