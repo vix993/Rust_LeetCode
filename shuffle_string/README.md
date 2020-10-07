@@ -1,4 +1,4 @@
-# Shuffle The Array
+# Shuffle The String
 
 ![Alt text](./Question.png?raw=true "Question")
 ![Alt text](./Example1.png?raw=true "Examples")
