@@ -5,6 +5,9 @@
 // and repeat the process making sure that we are revealing
 // the cards in increasing order.
 
+// As of my submission this is the fastest
+// and least costly solution submitted with Rust
+
 pub fn deck_revealed_increasing(deck: Vec<i32>) -> Vec<i32> {
     let mut sorted_deck: Vec<i32> = deck;
     let mut ret: Vec<i32> = [].to_vec();
