@@ -11,7 +11,7 @@
 // of the possible joined vector content in decimal
 
 // As of my submission this is the fastest
-// and less costly solution with Rust
+// and least costly solution with Rust
 
 use std::cmp;
 
