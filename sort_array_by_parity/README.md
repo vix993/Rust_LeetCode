@@ -1,4 +1,4 @@
-# Create Target Array in the Given Order
+# Sort Array By Parity
 
 ![Alt text](./Question.png?raw=true "Question")
 
