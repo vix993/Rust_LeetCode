@@ -1,7 +1,7 @@
 # Split String into Balanced String
 
 ![Alt text](./Question.png?raw=true "Question")
-![Alt text](./Examples.png?raw=true "Examples")
+![Alt text](./Example.png?raw=true "Examples")
 
 ## Success Details
 
