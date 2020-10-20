@@ -5,4 +5,4 @@
 
 ## Success Details
 
-![Alt text](./success.png?raw=true "Success")
+![Alt text](./Success.png?raw=true "Success")
