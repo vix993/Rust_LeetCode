@@ -8,7 +8,7 @@ Parralel to learning the syntax I am also interested in exercising my problem so
 solving LeetCode problems kills two birds with one stone.
 
 I do not own the rights to any of these challenges, I am merely posting these here for the purpose of later revision
-and demonstrating pride in my code.
+and optimisation.
 
 You can compile each of these solutions by having rust installed and executing the following commands:
 
